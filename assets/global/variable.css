@@ -1,0 +1,9 @@
+/* cores variaveis do projeto, todas as cores serão usadas, são agrupadas aqui para facilitar o alcance da alteração e padronizar, assim quando um elemento ou varios tiverem a mesma cor, não há necessidade de mudar de elemento em elemento, somente alterar aqui a variável usada */
+
+:root {
+  --cor-preto: black;
+  --cor-branco: white;
+  --cor-cinza: #1f1f1f;
+  --cor-cinza-claro: #e9ecf3;
+  --cor-principal: rgb(17, 169, 207);
+}

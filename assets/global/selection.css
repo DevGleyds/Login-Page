@@ -1,0 +1,6 @@
+/* muda a cor da seleção do texto no site */
+
+::selection {
+  color: white;
+  background-color: black;
+}

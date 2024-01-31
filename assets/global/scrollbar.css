@@ -1,0 +1,9 @@
+/* personalização da scrollbar do site */
+
+::-webkit-scrollbar {
+  background-color: var(--cor-cinza-claro);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--cor-principal);
+}
